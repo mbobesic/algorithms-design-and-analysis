@@ -11,5 +11,7 @@ Project containing implementations of algorithms from coursera Algorithms: Desig
     * Quick Sort
 
 ## Week3
+    * Karger Minimum Cut
 
 ## Week4
+    * Kosaraju Two Pass Algorithm
