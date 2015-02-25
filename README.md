@@ -20,9 +20,11 @@ Project containing implementations of algorithms from coursera Algorithms: Desig
     * Kosaraju Two Pass Algorithm
 
 ## Week5
-	* Dijkstra (unimplemented)
+	* Dijkstra
 	* Heap Implementation (unimplemented)
 
 ## Week6
+    * Median (with heap)
+    * 2sum
 	* Hash Table (unimplemented)
 	* Bloom Filter (unimplemented)
