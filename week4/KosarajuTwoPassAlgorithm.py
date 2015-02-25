@@ -47,11 +47,6 @@ graph = {}
 graph_rev = {}
 order = []
 
-
-def add_order(node):
-    global order
-
-
 def dfs(node):
     global visited, order
 
